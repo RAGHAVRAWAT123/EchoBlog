@@ -23,13 +23,16 @@ This is a [React](https://react.dev/) based blog application where users can rea
 
 ## App In Action:
 
+- **Add Blog**
+
 ![Platform Screenshot](images/second.png)
 
-- **Add Blog**
+
+- **Read Blogs**
 
 ![Platform Screenshot](images/third.png)
 
-- **Read Blogs**
+
 
 
 
